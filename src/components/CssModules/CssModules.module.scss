@@ -1,0 +1,15 @@
+.selected {
+    background-color: #aaa;
+}
+.css-modules {
+    font-weight: 700;
+    font-size: 24px;
+    color:  #9eda7c;
+}
+.lighter-text {
+    color: #9e6a7c;
+}
+:global .container {
+    color: #2f2f8f;
+    font-size: 30px;
+}
